@@ -12,3 +12,37 @@ header{
 body{
   margin: 0px;
 }
+
+body{background-color:blueviolet}
+
+body{
+  background-image: url(3dRender\ pastel.avif);
+background-size: cover;}
+
+#foo {
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  border-style: double;
+}
+
+#potet {
+  display: flex;
+  justify-content: center;
+}
+
+#eple { 
+  display: flex;
+  justify-content: flex-end;
+}
+
+body {font-family: fantasy;}
+
+#vann {
+  display: flex;
+  align-items: baseline;
+}
+
+#kake {display: flex;
+  justify-content: center;
+}
