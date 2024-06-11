@@ -1,23 +1,14 @@
-h1 {
-  color:hsl(129, 87%, 21%);
-background-color: rgb(245, 128, 128);
-  font-size:medium;
-
-}
-h1{
-  background-color: blueviolet;
+.navbar {
+  background-color: limegreen;
 }
 
-
-h1 {background-color: yellowgreen;}
-p {
-  font-family: fantasy;
+header{
+  display: block;
+  unicode-bidi: isolate;
 }
 
-#foo {
-  color:cornflowerblue;
-}
+/* overskrive default styling*/
 
-.bg-blue {
-  background-color: blue;
+body{
+  margin: 0px;
 }
