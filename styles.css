@@ -46,3 +46,13 @@ body {font-family: fantasy;}
 #kake {display: flex;
   justify-content: center;
 }
+
+.bg-blue {background-color: blue;}
+
+
+.flue {
+  display: flex;
+  justify-content: center;
+  background-image: url(3dRender\ pastel.avif);
+  color: green;
+}
